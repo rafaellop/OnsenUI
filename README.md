@@ -1,4 +1,4 @@
-# Onsen UI
+# Onsen UIX
 
 Onsen UI is a Custom Elements-Based HTML5 UI Framework for BuildingYour Mobile Front End.
 
